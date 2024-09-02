@@ -1,0 +1,271 @@
+C:\Users\ibo\source\repos\hastaneproj\hastaneproj\bin\Debug\hastaneproj.exe.config
+C:\Users\ibo\source\repos\hastaneproj\hastaneproj\bin\Debug\hastaneproj.exe
+C:\Users\ibo\source\repos\hastaneproj\hastaneproj\bin\Debug\hastaneproj.pdb
+C:\Users\ibo\source\repos\hastaneproj\hastaneproj\obj\Debug\hastaneproj.csproj.AssemblyReference.cache
+C:\Users\ibo\source\repos\hastaneproj\hastaneproj\obj\Debug\hastaneproj.Properties.Resources.resources
+C:\Users\ibo\source\repos\hastaneproj\hastaneproj\obj\Debug\hastaneproj.csproj.GenerateResource.cache
+C:\Users\ibo\source\repos\hastaneproj\hastaneproj\obj\Debug\hastaneproj.csproj.CoreCompileInputs.cache
+C:\Users\ibo\source\repos\hastaneproj\hastaneproj\obj\Debug\hastaneproj.exe
+C:\Users\ibo\source\repos\hastaneproj\hastaneproj\obj\Debug\hastaneproj.pdb
+C:\Users\ibo\source\repos\hastaneproj\hastaneproj\obj\Debug\hastaneproj.HastaneGiris.resources
+C:\Users\ibo\source\repos\hastaneproj\hastaneproj\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ibo\source\repos\hastaneproj\hastaneproj\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\ibo\source\repos\hastaneproj\hastaneproj\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ibo\source\repos\hastaneproj\hastaneproj\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ibo\source\repos\hastaneproj\hastaneproj\bin\Debug\Npgsql.dll
+C:\Users\ibo\source\repos\hastaneproj\hastaneproj\bin\Debug\System.Buffers.dll
+C:\Users\ibo\source\repos\hastaneproj\hastaneproj\bin\Debug\System.Collections.Immutable.dll
+C:\Users\ibo\source\repos\hastaneproj\hastaneproj\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ibo\source\repos\hastaneproj\hastaneproj\bin\Debug\System.Memory.dll
+C:\Users\ibo\source\repos\hastaneproj\hastaneproj\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ibo\source\repos\hastaneproj\hastaneproj\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ibo\source\repos\hastaneproj\hastaneproj\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ibo\source\repos\hastaneproj\hastaneproj\bin\Debug\System.Text.Json.dll
+C:\Users\ibo\source\repos\hastaneproj\hastaneproj\bin\Debug\System.Threading.Channels.dll
+C:\Users\ibo\source\repos\hastaneproj\hastaneproj\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ibo\source\repos\hastaneproj\hastaneproj\bin\Debug\System.ValueTuple.dll
+C:\Users\ibo\source\repos\hastaneproj\hastaneproj\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ibo\source\repos\hastaneproj\hastaneproj\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\ibo\source\repos\hastaneproj\hastaneproj\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ibo\source\repos\hastaneproj\hastaneproj\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ibo\source\repos\hastaneproj\hastaneproj\bin\Debug\Npgsql.xml
+C:\Users\ibo\source\repos\hastaneproj\hastaneproj\bin\Debug\System.Buffers.xml
+C:\Users\ibo\source\repos\hastaneproj\hastaneproj\bin\Debug\System.Collections.Immutable.xml
+C:\Users\ibo\source\repos\hastaneproj\hastaneproj\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ibo\source\repos\hastaneproj\hastaneproj\bin\Debug\System.Memory.xml
+C:\Users\ibo\source\repos\hastaneproj\hastaneproj\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ibo\source\repos\hastaneproj\hastaneproj\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ibo\source\repos\hastaneproj\hastaneproj\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ibo\source\repos\hastaneproj\hastaneproj\bin\Debug\System.Text.Json.xml
+C:\Users\ibo\source\repos\hastaneproj\hastaneproj\bin\Debug\System.Threading.Channels.xml
+C:\Users\ibo\source\repos\hastaneproj\hastaneproj\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ibo\source\repos\hastaneproj\hastaneproj\bin\Debug\System.ValueTuple.xml
+C:\Users\ibo\source\repos\hastaneproj\hastaneproj\obj\Debug\hastanep.B574B2EC.Up2Date
+C:\Users\ibo\Desktop\Yeni klasör\hastaneproj\hastaneproj\bin\Debug\hastaneproj.exe.config
+C:\Users\ibo\Desktop\Yeni klasör\hastaneproj\hastaneproj\bin\Debug\hastaneproj.exe
+C:\Users\ibo\Desktop\Yeni klasör\hastaneproj\hastaneproj\bin\Debug\hastaneproj.pdb
+C:\Users\ibo\Desktop\Yeni klasör\hastaneproj\hastaneproj\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ibo\Desktop\Yeni klasör\hastaneproj\hastaneproj\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\ibo\Desktop\Yeni klasör\hastaneproj\hastaneproj\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ibo\Desktop\Yeni klasör\hastaneproj\hastaneproj\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ibo\Desktop\Yeni klasör\hastaneproj\hastaneproj\bin\Debug\Npgsql.dll
+C:\Users\ibo\Desktop\Yeni klasör\hastaneproj\hastaneproj\bin\Debug\System.Buffers.dll
+C:\Users\ibo\Desktop\Yeni klasör\hastaneproj\hastaneproj\bin\Debug\System.Collections.Immutable.dll
+C:\Users\ibo\Desktop\Yeni klasör\hastaneproj\hastaneproj\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ibo\Desktop\Yeni klasör\hastaneproj\hastaneproj\bin\Debug\System.Memory.dll
+C:\Users\ibo\Desktop\Yeni klasör\hastaneproj\hastaneproj\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ibo\Desktop\Yeni klasör\hastaneproj\hastaneproj\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ibo\Desktop\Yeni klasör\hastaneproj\hastaneproj\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ibo\Desktop\Yeni klasör\hastaneproj\hastaneproj\bin\Debug\System.Text.Json.dll
+C:\Users\ibo\Desktop\Yeni klasör\hastaneproj\hastaneproj\bin\Debug\System.Threading.Channels.dll
+C:\Users\ibo\Desktop\Yeni klasör\hastaneproj\hastaneproj\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ibo\Desktop\Yeni klasör\hastaneproj\hastaneproj\bin\Debug\System.ValueTuple.dll
+C:\Users\ibo\Desktop\Yeni klasör\hastaneproj\hastaneproj\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ibo\Desktop\Yeni klasör\hastaneproj\hastaneproj\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\ibo\Desktop\Yeni klasör\hastaneproj\hastaneproj\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ibo\Desktop\Yeni klasör\hastaneproj\hastaneproj\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ibo\Desktop\Yeni klasör\hastaneproj\hastaneproj\bin\Debug\Npgsql.xml
+C:\Users\ibo\Desktop\Yeni klasör\hastaneproj\hastaneproj\bin\Debug\System.Buffers.xml
+C:\Users\ibo\Desktop\Yeni klasör\hastaneproj\hastaneproj\bin\Debug\System.Collections.Immutable.xml
+C:\Users\ibo\Desktop\Yeni klasör\hastaneproj\hastaneproj\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ibo\Desktop\Yeni klasör\hastaneproj\hastaneproj\bin\Debug\System.Memory.xml
+C:\Users\ibo\Desktop\Yeni klasör\hastaneproj\hastaneproj\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ibo\Desktop\Yeni klasör\hastaneproj\hastaneproj\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ibo\Desktop\Yeni klasör\hastaneproj\hastaneproj\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ibo\Desktop\Yeni klasör\hastaneproj\hastaneproj\bin\Debug\System.Text.Json.xml
+C:\Users\ibo\Desktop\Yeni klasör\hastaneproj\hastaneproj\bin\Debug\System.Threading.Channels.xml
+C:\Users\ibo\Desktop\Yeni klasör\hastaneproj\hastaneproj\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ibo\Desktop\Yeni klasör\hastaneproj\hastaneproj\bin\Debug\System.ValueTuple.xml
+C:\Users\ibo\Desktop\Yeni klasör\hastaneproj\hastaneproj\obj\Debug\hastaneproj.csproj.AssemblyReference.cache
+C:\Users\ibo\Desktop\Yeni klasör\hastaneproj\hastaneproj\obj\Debug\hastaneproj.HastaneGiris.resources
+C:\Users\ibo\Desktop\Yeni klasör\hastaneproj\hastaneproj\obj\Debug\hastaneproj.Properties.Resources.resources
+C:\Users\ibo\Desktop\Yeni klasör\hastaneproj\hastaneproj\obj\Debug\hastaneproj.csproj.GenerateResource.cache
+C:\Users\ibo\Desktop\Yeni klasör\hastaneproj\hastaneproj\obj\Debug\hastaneproj.csproj.CoreCompileInputs.cache
+C:\Users\ibo\Desktop\Yeni klasör\hastaneproj\hastaneproj\obj\Debug\hastaneproj.csproj.CopyComplete
+C:\Users\ibo\Desktop\Yeni klasör\hastaneproj\hastaneproj\obj\Debug\hastaneproj.exe
+C:\Users\ibo\Desktop\Yeni klasör\hastaneproj\hastaneproj\obj\Debug\hastaneproj.pdb
+C:\Users\ibo\Desktop\Yeni klasör\hastaneproj\hastaneproj\obj\Debug\hastaneproj.UyeOl.resources
+C:\Users\ibo\Desktop\hastaneproj\hastaneproj\bin\Debug\hastaneproj.exe.config
+C:\Users\ibo\Desktop\hastaneproj\hastaneproj\bin\Debug\hastaneproj.exe
+C:\Users\ibo\Desktop\hastaneproj\hastaneproj\bin\Debug\hastaneproj.pdb
+C:\Users\ibo\Desktop\hastaneproj\hastaneproj\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ibo\Desktop\hastaneproj\hastaneproj\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\ibo\Desktop\hastaneproj\hastaneproj\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ibo\Desktop\hastaneproj\hastaneproj\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ibo\Desktop\hastaneproj\hastaneproj\bin\Debug\Npgsql.dll
+C:\Users\ibo\Desktop\hastaneproj\hastaneproj\bin\Debug\System.Buffers.dll
+C:\Users\ibo\Desktop\hastaneproj\hastaneproj\bin\Debug\System.Collections.Immutable.dll
+C:\Users\ibo\Desktop\hastaneproj\hastaneproj\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ibo\Desktop\hastaneproj\hastaneproj\bin\Debug\System.Memory.dll
+C:\Users\ibo\Desktop\hastaneproj\hastaneproj\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ibo\Desktop\hastaneproj\hastaneproj\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ibo\Desktop\hastaneproj\hastaneproj\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ibo\Desktop\hastaneproj\hastaneproj\bin\Debug\System.Text.Json.dll
+C:\Users\ibo\Desktop\hastaneproj\hastaneproj\bin\Debug\System.Threading.Channels.dll
+C:\Users\ibo\Desktop\hastaneproj\hastaneproj\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ibo\Desktop\hastaneproj\hastaneproj\bin\Debug\System.ValueTuple.dll
+C:\Users\ibo\Desktop\hastaneproj\hastaneproj\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ibo\Desktop\hastaneproj\hastaneproj\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\ibo\Desktop\hastaneproj\hastaneproj\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ibo\Desktop\hastaneproj\hastaneproj\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ibo\Desktop\hastaneproj\hastaneproj\bin\Debug\Npgsql.xml
+C:\Users\ibo\Desktop\hastaneproj\hastaneproj\bin\Debug\System.Buffers.xml
+C:\Users\ibo\Desktop\hastaneproj\hastaneproj\bin\Debug\System.Collections.Immutable.xml
+C:\Users\ibo\Desktop\hastaneproj\hastaneproj\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ibo\Desktop\hastaneproj\hastaneproj\bin\Debug\System.Memory.xml
+C:\Users\ibo\Desktop\hastaneproj\hastaneproj\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ibo\Desktop\hastaneproj\hastaneproj\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ibo\Desktop\hastaneproj\hastaneproj\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ibo\Desktop\hastaneproj\hastaneproj\bin\Debug\System.Text.Json.xml
+C:\Users\ibo\Desktop\hastaneproj\hastaneproj\bin\Debug\System.Threading.Channels.xml
+C:\Users\ibo\Desktop\hastaneproj\hastaneproj\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ibo\Desktop\hastaneproj\hastaneproj\bin\Debug\System.ValueTuple.xml
+C:\Users\ibo\Desktop\hastaneproj\hastaneproj\obj\Debug\hastaneproj.csproj.AssemblyReference.cache
+C:\Users\ibo\Desktop\hastaneproj\hastaneproj\obj\Debug\hastaneproj.UyeOl.resources
+C:\Users\ibo\Desktop\hastaneproj\hastaneproj\obj\Debug\hastaneproj.HastaneGiris.resources
+C:\Users\ibo\Desktop\hastaneproj\hastaneproj\obj\Debug\hastaneproj.Properties.Resources.resources
+C:\Users\ibo\Desktop\hastaneproj\hastaneproj\obj\Debug\hastaneproj.csproj.GenerateResource.cache
+C:\Users\ibo\Desktop\hastaneproj\hastaneproj\obj\Debug\hastaneproj.csproj.CoreCompileInputs.cache
+C:\Users\ibo\Desktop\hastaneproj\hastaneproj\obj\Debug\hastaneproj.exe
+C:\Users\ibo\Desktop\hastaneproj\hastaneproj\obj\Debug\hastaneproj.pdb
+C:\Users\ibo\Desktop\hastaneproj\hastaneproj\obj\Debug\hastaneproj.AnaEkran.resources
+C:\Users\ibo\Desktop\hastaneproj\hastaneproj\obj\Debug\hastaneproj.bilgidüzenle.resources
+C:\Users\ibo\Desktop\hastaneproj\hastaneproj\obj\Debug\hastanep.B574B2EC.Up2Date
+C:\Users\ibo\Desktop\hast\hastaneproj\bin\Debug\hastaneproj.exe.config
+C:\Users\ibo\Desktop\hast\hastaneproj\bin\Debug\hastaneproj.exe
+C:\Users\ibo\Desktop\hast\hastaneproj\bin\Debug\hastaneproj.pdb
+C:\Users\ibo\Desktop\hast\hastaneproj\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ibo\Desktop\hast\hastaneproj\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\ibo\Desktop\hast\hastaneproj\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ibo\Desktop\hast\hastaneproj\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ibo\Desktop\hast\hastaneproj\bin\Debug\Npgsql.dll
+C:\Users\ibo\Desktop\hast\hastaneproj\bin\Debug\System.Buffers.dll
+C:\Users\ibo\Desktop\hast\hastaneproj\bin\Debug\System.Collections.Immutable.dll
+C:\Users\ibo\Desktop\hast\hastaneproj\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ibo\Desktop\hast\hastaneproj\bin\Debug\System.Memory.dll
+C:\Users\ibo\Desktop\hast\hastaneproj\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ibo\Desktop\hast\hastaneproj\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ibo\Desktop\hast\hastaneproj\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ibo\Desktop\hast\hastaneproj\bin\Debug\System.Text.Json.dll
+C:\Users\ibo\Desktop\hast\hastaneproj\bin\Debug\System.Threading.Channels.dll
+C:\Users\ibo\Desktop\hast\hastaneproj\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ibo\Desktop\hast\hastaneproj\bin\Debug\System.ValueTuple.dll
+C:\Users\ibo\Desktop\hast\hastaneproj\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ibo\Desktop\hast\hastaneproj\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\ibo\Desktop\hast\hastaneproj\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ibo\Desktop\hast\hastaneproj\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ibo\Desktop\hast\hastaneproj\bin\Debug\Npgsql.xml
+C:\Users\ibo\Desktop\hast\hastaneproj\bin\Debug\System.Buffers.xml
+C:\Users\ibo\Desktop\hast\hastaneproj\bin\Debug\System.Collections.Immutable.xml
+C:\Users\ibo\Desktop\hast\hastaneproj\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ibo\Desktop\hast\hastaneproj\bin\Debug\System.Memory.xml
+C:\Users\ibo\Desktop\hast\hastaneproj\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ibo\Desktop\hast\hastaneproj\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ibo\Desktop\hast\hastaneproj\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ibo\Desktop\hast\hastaneproj\bin\Debug\System.Text.Json.xml
+C:\Users\ibo\Desktop\hast\hastaneproj\bin\Debug\System.Threading.Channels.xml
+C:\Users\ibo\Desktop\hast\hastaneproj\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ibo\Desktop\hast\hastaneproj\bin\Debug\System.ValueTuple.xml
+C:\Users\ibo\Desktop\hast\hastaneproj\obj\Debug\hastaneproj.csproj.AssemblyReference.cache
+C:\Users\ibo\Desktop\hast\hastaneproj\obj\Debug\hastaneproj.bilgidüzenle.resources
+C:\Users\ibo\Desktop\hast\hastaneproj\obj\Debug\hastaneproj.UyeOl.resources
+C:\Users\ibo\Desktop\hast\hastaneproj\obj\Debug\hastaneproj.AnaEkran.resources
+C:\Users\ibo\Desktop\hast\hastaneproj\obj\Debug\hastaneproj.HastaneGiris.resources
+C:\Users\ibo\Desktop\hast\hastaneproj\obj\Debug\hastaneproj.Properties.Resources.resources
+C:\Users\ibo\Desktop\hast\hastaneproj\obj\Debug\hastaneproj.csproj.GenerateResource.cache
+C:\Users\ibo\Desktop\hast\hastaneproj\obj\Debug\hastaneproj.csproj.CoreCompileInputs.cache
+C:\Users\ibo\Desktop\hast\hastaneproj\obj\Debug\hastanep.B574B2EC.Up2Date
+C:\Users\ibo\Desktop\hast\hastaneproj\obj\Debug\hastaneproj.exe
+C:\Users\ibo\Desktop\hast\hastaneproj\obj\Debug\hastaneproj.pdb
+C:\Users\ibo\Desktop\RandevuUyg\hastaneproj\bin\Debug\hastaneproj.exe.config
+C:\Users\ibo\Desktop\RandevuUyg\hastaneproj\bin\Debug\hastaneproj.exe
+C:\Users\ibo\Desktop\RandevuUyg\hastaneproj\bin\Debug\hastaneproj.pdb
+C:\Users\ibo\Desktop\RandevuUyg\hastaneproj\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ibo\Desktop\RandevuUyg\hastaneproj\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\ibo\Desktop\RandevuUyg\hastaneproj\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ibo\Desktop\RandevuUyg\hastaneproj\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ibo\Desktop\RandevuUyg\hastaneproj\bin\Debug\Npgsql.dll
+C:\Users\ibo\Desktop\RandevuUyg\hastaneproj\bin\Debug\System.Buffers.dll
+C:\Users\ibo\Desktop\RandevuUyg\hastaneproj\bin\Debug\System.Collections.Immutable.dll
+C:\Users\ibo\Desktop\RandevuUyg\hastaneproj\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ibo\Desktop\RandevuUyg\hastaneproj\bin\Debug\System.Memory.dll
+C:\Users\ibo\Desktop\RandevuUyg\hastaneproj\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ibo\Desktop\RandevuUyg\hastaneproj\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ibo\Desktop\RandevuUyg\hastaneproj\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ibo\Desktop\RandevuUyg\hastaneproj\bin\Debug\System.Text.Json.dll
+C:\Users\ibo\Desktop\RandevuUyg\hastaneproj\bin\Debug\System.Threading.Channels.dll
+C:\Users\ibo\Desktop\RandevuUyg\hastaneproj\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ibo\Desktop\RandevuUyg\hastaneproj\bin\Debug\System.ValueTuple.dll
+C:\Users\ibo\Desktop\RandevuUyg\hastaneproj\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ibo\Desktop\RandevuUyg\hastaneproj\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\ibo\Desktop\RandevuUyg\hastaneproj\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ibo\Desktop\RandevuUyg\hastaneproj\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ibo\Desktop\RandevuUyg\hastaneproj\bin\Debug\Npgsql.xml
+C:\Users\ibo\Desktop\RandevuUyg\hastaneproj\bin\Debug\System.Buffers.xml
+C:\Users\ibo\Desktop\RandevuUyg\hastaneproj\bin\Debug\System.Collections.Immutable.xml
+C:\Users\ibo\Desktop\RandevuUyg\hastaneproj\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ibo\Desktop\RandevuUyg\hastaneproj\bin\Debug\System.Memory.xml
+C:\Users\ibo\Desktop\RandevuUyg\hastaneproj\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ibo\Desktop\RandevuUyg\hastaneproj\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ibo\Desktop\RandevuUyg\hastaneproj\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ibo\Desktop\RandevuUyg\hastaneproj\bin\Debug\System.Text.Json.xml
+C:\Users\ibo\Desktop\RandevuUyg\hastaneproj\bin\Debug\System.Threading.Channels.xml
+C:\Users\ibo\Desktop\RandevuUyg\hastaneproj\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ibo\Desktop\RandevuUyg\hastaneproj\bin\Debug\System.ValueTuple.xml
+C:\Users\ibo\Desktop\RandevuUyg\hastaneproj\obj\Debug\hastaneproj.csproj.AssemblyReference.cache
+C:\Users\ibo\Desktop\RandevuUyg\hastaneproj\obj\Debug\hastaneproj.bilgidüzenle.resources
+C:\Users\ibo\Desktop\RandevuUyg\hastaneproj\obj\Debug\hastaneproj.UyeOl.resources
+C:\Users\ibo\Desktop\RandevuUyg\hastaneproj\obj\Debug\hastaneproj.AnaEkran.resources
+C:\Users\ibo\Desktop\RandevuUyg\hastaneproj\obj\Debug\hastaneproj.HastaneGiris.resources
+C:\Users\ibo\Desktop\RandevuUyg\hastaneproj\obj\Debug\hastaneproj.Properties.Resources.resources
+C:\Users\ibo\Desktop\RandevuUyg\hastaneproj\obj\Debug\hastaneproj.csproj.GenerateResource.cache
+C:\Users\ibo\Desktop\RandevuUyg\hastaneproj\obj\Debug\hastaneproj.csproj.CoreCompileInputs.cache
+C:\Users\ibo\Desktop\RandevuUyg\hastaneproj\obj\Debug\hastanep.B574B2EC.Up2Date
+C:\Users\ibo\Desktop\RandevuUyg\hastaneproj\obj\Debug\hastaneproj.exe
+C:\Users\ibo\Desktop\RandevuUyg\hastaneproj\obj\Debug\hastaneproj.pdb
+C:\Users\banus\OneDrive\Masaüstü\veritabanı proje\Hastane\hastaneproj\bin\Debug\hastaneproj.exe.config
+C:\Users\banus\OneDrive\Masaüstü\veritabanı proje\Hastane\hastaneproj\bin\Debug\hastaneproj.exe
+C:\Users\banus\OneDrive\Masaüstü\veritabanı proje\Hastane\hastaneproj\bin\Debug\hastaneproj.pdb
+C:\Users\banus\OneDrive\Masaüstü\veritabanı proje\Hastane\hastaneproj\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\banus\OneDrive\Masaüstü\veritabanı proje\Hastane\hastaneproj\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\banus\OneDrive\Masaüstü\veritabanı proje\Hastane\hastaneproj\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\banus\OneDrive\Masaüstü\veritabanı proje\Hastane\hastaneproj\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\banus\OneDrive\Masaüstü\veritabanı proje\Hastane\hastaneproj\bin\Debug\Npgsql.dll
+C:\Users\banus\OneDrive\Masaüstü\veritabanı proje\Hastane\hastaneproj\bin\Debug\System.Buffers.dll
+C:\Users\banus\OneDrive\Masaüstü\veritabanı proje\Hastane\hastaneproj\bin\Debug\System.Collections.Immutable.dll
+C:\Users\banus\OneDrive\Masaüstü\veritabanı proje\Hastane\hastaneproj\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\banus\OneDrive\Masaüstü\veritabanı proje\Hastane\hastaneproj\bin\Debug\System.Memory.dll
+C:\Users\banus\OneDrive\Masaüstü\veritabanı proje\Hastane\hastaneproj\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\banus\OneDrive\Masaüstü\veritabanı proje\Hastane\hastaneproj\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\banus\OneDrive\Masaüstü\veritabanı proje\Hastane\hastaneproj\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\banus\OneDrive\Masaüstü\veritabanı proje\Hastane\hastaneproj\bin\Debug\System.Text.Json.dll
+C:\Users\banus\OneDrive\Masaüstü\veritabanı proje\Hastane\hastaneproj\bin\Debug\System.Threading.Channels.dll
+C:\Users\banus\OneDrive\Masaüstü\veritabanı proje\Hastane\hastaneproj\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\banus\OneDrive\Masaüstü\veritabanı proje\Hastane\hastaneproj\bin\Debug\System.ValueTuple.dll
+C:\Users\banus\OneDrive\Masaüstü\veritabanı proje\Hastane\hastaneproj\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\banus\OneDrive\Masaüstü\veritabanı proje\Hastane\hastaneproj\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\banus\OneDrive\Masaüstü\veritabanı proje\Hastane\hastaneproj\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\banus\OneDrive\Masaüstü\veritabanı proje\Hastane\hastaneproj\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\banus\OneDrive\Masaüstü\veritabanı proje\Hastane\hastaneproj\bin\Debug\Npgsql.xml
+C:\Users\banus\OneDrive\Masaüstü\veritabanı proje\Hastane\hastaneproj\bin\Debug\System.Buffers.xml
+C:\Users\banus\OneDrive\Masaüstü\veritabanı proje\Hastane\hastaneproj\bin\Debug\System.Collections.Immutable.xml
+C:\Users\banus\OneDrive\Masaüstü\veritabanı proje\Hastane\hastaneproj\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\banus\OneDrive\Masaüstü\veritabanı proje\Hastane\hastaneproj\bin\Debug\System.Memory.xml
+C:\Users\banus\OneDrive\Masaüstü\veritabanı proje\Hastane\hastaneproj\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\banus\OneDrive\Masaüstü\veritabanı proje\Hastane\hastaneproj\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\banus\OneDrive\Masaüstü\veritabanı proje\Hastane\hastaneproj\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\banus\OneDrive\Masaüstü\veritabanı proje\Hastane\hastaneproj\bin\Debug\System.Text.Json.xml
+C:\Users\banus\OneDrive\Masaüstü\veritabanı proje\Hastane\hastaneproj\bin\Debug\System.Threading.Channels.xml
+C:\Users\banus\OneDrive\Masaüstü\veritabanı proje\Hastane\hastaneproj\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\banus\OneDrive\Masaüstü\veritabanı proje\Hastane\hastaneproj\bin\Debug\System.ValueTuple.xml
+C:\Users\banus\OneDrive\Masaüstü\veritabanı proje\Hastane\hastaneproj\obj\Debug\hastaneproj.csproj.AssemblyReference.cache
+C:\Users\banus\OneDrive\Masaüstü\veritabanı proje\Hastane\hastaneproj\obj\Debug\hastaneproj.bilgidüzenle.resources
+C:\Users\banus\OneDrive\Masaüstü\veritabanı proje\Hastane\hastaneproj\obj\Debug\hastaneproj.UyeOl.resources
+C:\Users\banus\OneDrive\Masaüstü\veritabanı proje\Hastane\hastaneproj\obj\Debug\hastaneproj.AnaEkran.resources
+C:\Users\banus\OneDrive\Masaüstü\veritabanı proje\Hastane\hastaneproj\obj\Debug\hastaneproj.HastaneGiris.resources
+C:\Users\banus\OneDrive\Masaüstü\veritabanı proje\Hastane\hastaneproj\obj\Debug\hastaneproj.Properties.Resources.resources
+C:\Users\banus\OneDrive\Masaüstü\veritabanı proje\Hastane\hastaneproj\obj\Debug\hastaneproj.csproj.GenerateResource.cache
+C:\Users\banus\OneDrive\Masaüstü\veritabanı proje\Hastane\hastaneproj\obj\Debug\hastaneproj.csproj.CoreCompileInputs.cache
+C:\Users\banus\OneDrive\Masaüstü\veritabanı proje\Hastane\hastaneproj\obj\Debug\hastanep.B574B2EC.Up2Date
+C:\Users\banus\OneDrive\Masaüstü\veritabanı proje\Hastane\hastaneproj\obj\Debug\hastaneproj.exe
+C:\Users\banus\OneDrive\Masaüstü\veritabanı proje\Hastane\hastaneproj\obj\Debug\hastaneproj.pdb

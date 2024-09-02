@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\banus\\OneDrive\\Masa\u00FCst\u00FC\\Hastane_Randevu_Sistemi_1124.2_G6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0881D212-4871-4848-B056-5CC3BF4A1443}|hastaneproj\\hastaneproj.csproj|C:\\Users\\banus\\OneDrive\\Masa\u00FCst\u00FC\\Hastane_Randevu_Sistemi_1124.2_G6\\hastaneproj\\anaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0881D212-4871-4848-B056-5CC3BF4A1443}|hastaneproj\\hastaneproj.csproj|solutionrelative:hastaneproj\\anaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0881D212-4871-4848-B056-5CC3BF4A1443}|hastaneproj\\hastaneproj.csproj|C:\\Users\\banus\\OneDrive\\Masa\u00FCst\u00FC\\Hastane_Randevu_Sistemi_1124.2_G6\\hastaneproj\\girisekran\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0881D212-4871-4848-B056-5CC3BF4A1443}|hastaneproj\\hastaneproj.csproj|solutionrelative:hastaneproj\\girisekran\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0881D212-4871-4848-B056-5CC3BF4A1443}|hastaneproj\\hastaneproj.csproj|C:\\Users\\banus\\OneDrive\\Masa\u00FCst\u00FC\\Hastane_Randevu_Sistemi_1124.2_G6\\hastaneproj\\kayitol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0881D212-4871-4848-B056-5CC3BF4A1443}|hastaneproj\\hastaneproj.csproj|solutionrelative:hastaneproj\\kayitol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0881D212-4871-4848-B056-5CC3BF4A1443}|hastaneproj\\hastaneproj.csproj|c:\\users\\banus\\onedrive\\masa\u00FCst\u00FC\\hastane_randevu_sistemi_1124.2_g6\\hastaneproj\\anaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0881D212-4871-4848-B056-5CC3BF4A1443}|hastaneproj\\hastaneproj.csproj|solutionrelative:hastaneproj\\anaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0881D212-4871-4848-B056-5CC3BF4A1443}|hastaneproj\\hastaneproj.csproj|C:\\Users\\banus\\OneDrive\\Masa\u00FCst\u00FC\\Hastane_Randevu_Sistemi_1124.2_G6\\hastaneproj\\kayitol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0881D212-4871-4848-B056-5CC3BF4A1443}|hastaneproj\\hastaneproj.csproj|solutionrelative:hastaneproj\\kayitol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0881D212-4871-4848-B056-5CC3BF4A1443}|hastaneproj\\hastaneproj.csproj|C:\\Users\\banus\\OneDrive\\Masa\u00FCst\u00FC\\Hastane_Randevu_Sistemi_1124.2_G6\\hastaneproj\\girisekran\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0881D212-4871-4848-B056-5CC3BF4A1443}|hastaneproj\\hastaneproj.csproj|solutionrelative:hastaneproj\\girisekran\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0881D212-4871-4848-B056-5CC3BF4A1443}|hastaneproj\\hastaneproj.csproj|C:\\Users\\banus\\OneDrive\\Masa\u00FCst\u00FC\\Hastane_Randevu_Sistemi_1124.2_G6\\hastaneproj\\bilgid\u00FCzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0881D212-4871-4848-B056-5CC3BF4A1443}|hastaneproj\\hastaneproj.csproj|solutionrelative:hastaneproj\\bilgid\u00FCzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0881D212-4871-4848-B056-5CC3BF4A1443}|hastaneproj\\hastaneproj.csproj|C:\\Users\\banus\\OneDrive\\Masa\u00FCst\u00FC\\Hastane_Randevu_Sistemi_1124.2_G6\\hastaneproj\\bilgid\u00FCzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0881D212-4871-4848-B056-5CC3BF4A1443}|hastaneproj\\hastaneproj.csproj|solutionrelative:hastaneproj\\bilgid\u00FCzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Anaekran.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\banus\\OneDrive\\Masa\u00FCst\u00FC\\Hastane_Randevu_Sistemi_1124.2_G6\\hastaneproj\\Anaekran.cs",
+              "RelativeDocumentMoniker": "hastaneproj\\Anaekran.cs",
+              "ToolTip": "C:\\Users\\banus\\OneDrive\\Masa\u00FCst\u00FC\\Hastane_Randevu_Sistemi_1124.2_G6\\hastaneproj\\Anaekran.cs [Design]",
+              "RelativeToolTip": "hastaneproj\\Anaekran.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:13:17.717Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Anaekran.cs",
+              "DocumentMoniker": "C:\\Users\\banus\\OneDrive\\Masa\u00FCst\u00FC\\Hastane_Randevu_Sistemi_1124.2_G6\\hastaneproj\\Anaekran.cs",
+              "RelativeDocumentMoniker": "hastaneproj\\Anaekran.cs",
+              "ToolTip": "C:\\Users\\banus\\OneDrive\\Masa\u00FCst\u00FC\\Hastane_Randevu_Sistemi_1124.2_G6\\hastaneproj\\Anaekran.cs",
+              "RelativeToolTip": "hastaneproj\\Anaekran.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAtwFcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:01:26.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Kayitol.cs",
+              "DocumentMoniker": "C:\\Users\\banus\\OneDrive\\Masa\u00FCst\u00FC\\Hastane_Randevu_Sistemi_1124.2_G6\\hastaneproj\\Kayitol.cs",
+              "RelativeDocumentMoniker": "hastaneproj\\Kayitol.cs",
+              "ToolTip": "C:\\Users\\banus\\OneDrive\\Masa\u00FCst\u00FC\\Hastane_Randevu_Sistemi_1124.2_G6\\hastaneproj\\Kayitol.cs",
+              "RelativeToolTip": "hastaneproj\\Kayitol.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAWwDoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:59:15.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kayitol.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\banus\\OneDrive\\Masa\u00FCst\u00FC\\Hastane_Randevu_Sistemi_1124.2_G6\\hastaneproj\\Kayitol.cs",
+              "RelativeDocumentMoniker": "hastaneproj\\Kayitol.cs",
+              "ToolTip": "C:\\Users\\banus\\OneDrive\\Masa\u00FCst\u00FC\\Hastane_Randevu_Sistemi_1124.2_G6\\hastaneproj\\Kayitol.cs [Design]",
+              "RelativeToolTip": "hastaneproj\\Kayitol.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:59:13.049Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Girisekran\u0131.cs",
+              "DocumentMoniker": "C:\\Users\\banus\\OneDrive\\Masa\u00FCst\u00FC\\Hastane_Randevu_Sistemi_1124.2_G6\\hastaneproj\\Girisekran\u0131.cs",
+              "RelativeDocumentMoniker": "hastaneproj\\Girisekran\u0131.cs",
+              "ToolTip": "C:\\Users\\banus\\OneDrive\\Masa\u00FCst\u00FC\\Hastane_Randevu_Sistemi_1124.2_G6\\hastaneproj\\Girisekran\u0131.cs",
+              "RelativeToolTip": "hastaneproj\\Girisekran\u0131.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAvwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:58:53.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Girisekran\u0131.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\banus\\OneDrive\\Masa\u00FCst\u00FC\\Hastane_Randevu_Sistemi_1124.2_G6\\hastaneproj\\Girisekran\u0131.cs",
+              "RelativeDocumentMoniker": "hastaneproj\\Girisekran\u0131.cs",
+              "ToolTip": "C:\\Users\\banus\\OneDrive\\Masa\u00FCst\u00FC\\Hastane_Randevu_Sistemi_1124.2_G6\\hastaneproj\\Girisekran\u0131.cs [Design]",
+              "RelativeToolTip": "hastaneproj\\Girisekran\u0131.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:58:51.113Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "bilgid\u00FCzenle.cs",
+              "DocumentMoniker": "C:\\Users\\banus\\OneDrive\\Masa\u00FCst\u00FC\\Hastane_Randevu_Sistemi_1124.2_G6\\hastaneproj\\bilgid\u00FCzenle.cs",
+              "RelativeDocumentMoniker": "hastaneproj\\bilgid\u00FCzenle.cs",
+              "ToolTip": "C:\\Users\\banus\\OneDrive\\Masa\u00FCst\u00FC\\Hastane_Randevu_Sistemi_1124.2_G6\\hastaneproj\\bilgid\u00FCzenle.cs",
+              "RelativeToolTip": "hastaneproj\\bilgid\u00FCzenle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:58:11.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "bilgid\u00FCzenle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\banus\\OneDrive\\Masa\u00FCst\u00FC\\Hastane_Randevu_Sistemi_1124.2_G6\\hastaneproj\\bilgid\u00FCzenle.cs",
+              "RelativeDocumentMoniker": "hastaneproj\\bilgid\u00FCzenle.cs",
+              "ToolTip": "C:\\Users\\banus\\OneDrive\\Masa\u00FCst\u00FC\\veritaban\u0131 proje\\Hastane\\hastaneproj\\bilgid\u00FCzenle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\veritaban\u0131 proje\\Hastane\\hastaneproj\\bilgid\u00FCzenle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:58:08.769Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
